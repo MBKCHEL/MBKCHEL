@@ -10,8 +10,6 @@
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 
   ---
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MBKCHEL&theme=tokyo-night&hide_border=true" width="100%" />
 
   <br/><br/>
   
