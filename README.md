@@ -12,5 +12,11 @@
   <br/><br/>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MBKCHEL&theme=tokyonight" width="100%" />
+
+  ---
+  <br/><br/>
+
+  <!-- Топ используемых языков (Tokyo Night) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MBKCHEL&theme=tokyonight" width="100%" />
   
 </div>
