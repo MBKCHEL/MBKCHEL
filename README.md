@@ -10,7 +10,7 @@
   ---
 
   <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=MBKCHEL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="75%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MBKCHEL&theme=tokyonight" width="50%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MBKCHEL&theme=tokyonight" width="49%" />
 </p>
 </div>
