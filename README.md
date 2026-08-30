@@ -5,12 +5,15 @@
   # Hi, I'm MBKCHEL 🦀
   ### Rust Developer
 
+  [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+  [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+  [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+
   ---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MBKCHEL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  ### 📊 My GitHub Stats
 
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBKCHEL&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=MBKCHEL&show_icons=true&theme=tokyonight" width="400" />
+  
 </div>
