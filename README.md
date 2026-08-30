@@ -10,9 +10,11 @@
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 
   ---
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MBKCHEL&theme=tokyo-night&hide_border=true" width="100%" />
 
-  ### 📊 My GitHub Stats
-
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=MBKCHEL&show_icons=true&theme=tokyonight" width="400" />
+  <br/><br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MBKCHEL&theme=tokyonight" width="100%" />
   
 </div>
