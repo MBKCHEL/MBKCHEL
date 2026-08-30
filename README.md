@@ -10,7 +10,7 @@
   ---
 
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MBKCHEL&theme=tokyo-night&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MBKCHEL&theme=tokyonight" width="100%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MBKCHEL&theme=tokyonight" width="49%" />
 </p>
 </div>
